@@ -15,9 +15,13 @@ Meet me, Vishal Kumar, a B.Tech Computer Science student with a strong interest 
 Talking about Personal Stuffs:
 
 👨🏻‍💻 I’m currently a B.Tech CSE student;
+
 📊 I’m learning Data Analytics (Excel, SQL, Python);
+
 🚀 I’m building real-world data projects;
+
 💬 Ask me about Excel, SQL, Data Analysis;
+
 📫 How to reach me: vishal1kumar9572@gmail.com
 
 </br>
